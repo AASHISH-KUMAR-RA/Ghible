@@ -49,7 +49,7 @@ All dependencies are listed in `requirements.txt`
 
 Original Image | Ghibli Style
 :------------:|:------------:
-![Original](pic1.jpg) | ![Ghibli Style](ghibli_style_pic1.jpg)
+![Original](pic1.png) | ![Ghibli Style](pic2.png)
 
 ## License
 
